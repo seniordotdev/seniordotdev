@@ -1,7 +1,7 @@
 ![eicoder](https://readme-typing-svg.herokuapp.com?font=Inter&color=3A9CDF&size=30&weight=700&lines=Hi+there,+I'm+Egamberdi+Ibrohimov;I'm+Front-end+Developer!)
 
 
-## 🎓 I am a Web Developer |  KNCODER
+## 🎓 I am a Web Developer |  EgamberdiIbrohimov
 - ✍️ You can find my projects here
 - 🔭 I’m currently working on creative web sites
 - 🌱 I’m currently learning Web development
