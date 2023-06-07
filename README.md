@@ -118,7 +118,7 @@
 
 ## :trophy: EgamberdiIbrohimov's Github Stats:
 
-![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EgamberdiIbrohimov&theme=github_dark) 
+![Github Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seniordotdev&theme=github_dark) 
 
 
 
